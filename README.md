@@ -1,6 +1,11 @@
 
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?fontColor=FFB703&type=rect&color=023047&height=200&section=header&text=Hi,%20I'm%20Frankie!%20🤗&fontSize=50&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?fontColor=FFB703&type=rect&color=023047&height=300&section=header&text=Hi,%20I'm%20Frankie!%20🤗&fontSize=50&animation=fadeIn)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=frankjlin16&bg_color=80,023047,219EBC&title_color=fff&text_color=fff)
+
+</div>
 
 <!--
 **frankjlin16/frankjlin16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
