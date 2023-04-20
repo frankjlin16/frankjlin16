@@ -19,7 +19,7 @@ I am a Software Engineering student with over two years of experience in full-st
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=frankjlin16&bg_color=80,023047,219EBC&title_color=fff&text_color=fff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=frankjlin16&bg_color=80,023047,219EBC&title_color=FB8500&text_color=FFB703&ring_color=FFB703)
 
 </div>
 
@@ -36,7 +36,7 @@ I am a Software Engineering student with over two years of experience in full-st
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' height="40">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg' height="40">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankjlin16&layout=compact&title_color=fff&text_color=FFFFFF&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankjlin16&layout=compact&title_color=FB8500&text_color=FFB703&bg_color=80,023047,219EBC&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
   
