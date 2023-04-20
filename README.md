@@ -56,7 +56,7 @@ I am a Software Engineering student with over two years of experience in full-st
 <img src='https://www.svgrepo.com/show/448274/azure.svg' height="40">
 <img src='https://www.svgrepo.com/show/353564/cloudflare.svg' height="40">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frankjlin16&bg_color=30,3EADCF,ABE9CD)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=frankjlin16&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&background=45%2C023047%2C219EBC&ring=FFB703&fire=FB8500&currStreakLabel=FB8500&currStreakNum=FFB703&sideLabels=FB8500&sideNums=FFB703&dates=FFB703)](https://git.io/streak-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:023047,100:219EBC&height=200&section=footer&fontSize=80)
 
