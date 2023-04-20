@@ -22,8 +22,6 @@ I am a Software Engineering student with over two years of experience in full-st
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=frankjlin16&bg_color=80,023047,219EBC&title_color=FB8500&text_color=FFB703&ring_color=FFB703)
 
 </div>
-
-<hr>
   
 ## Languages
 
@@ -39,8 +37,6 @@ I am a Software Engineering student with over two years of experience in full-st
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankjlin16&layout=compact&title_color=FB8500&text_color=FFB703&bg_color=80,023047,219EBC&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-  
-<hr>
 
 ## Libraries and Tools
 
