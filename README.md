@@ -5,6 +5,8 @@
 
 </div>
 
+![](https://komarev.com/ghpvc/?username=frankjlin16&color=FFB703)
+
 ## About
 
 I am a Software Engineering student with over two years of experience in full-stack web development, I bring a strong understanding of Django and React and a passion for building intuitive and scalable web applications. I am a quick and ambitious learner, constantly seeking to expand my knowledge and skill set. With creative problem-solving skills, I can effectively troubleshoot issues and develop innovative solutions to improve the software development process. I have experience working collaboratively in teams, ensuring high-quality products are delivered on time.
@@ -15,13 +17,13 @@ I am a Software Engineering student with over two years of experience in full-st
 - 💻 I am a webmaster for the student organization CodeDevils at ASU.
 - 🎸 I love playing the guitar during my free time.
 
-<hr>
-
 <div align="center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=frankjlin16&bg_color=80,023047,219EBC&title_color=fff&text_color=fff)
 
 </div>
+
+<hr>
   
 ## Languages
 
@@ -43,11 +45,16 @@ I am a Software Engineering student with over two years of experience in full-st
 ## Libraries and Tools
 
 <div align="center">
+  
+  <div bg-color="yellow">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg' height="40">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' height="40">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg' height="40">
 
+  </div>
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frankjlin16&bg_color=30,3EADCF,ABE9CD)](https://git.io/streak-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:023047,100:219EBC&height=200&section=footer&fontSize=80)
