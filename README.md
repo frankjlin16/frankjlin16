@@ -45,9 +45,9 @@ I am a Software Engineering student with over two years of experience in full-st
 ## Libraries and Tools
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg' height="40">
+  
+<img src="https://www.svgrepo.com/show/373554/django.svg" height="40"/>
+<img src='https://www.svgrepo.com/show/378440/nextjs-fill.svg' height="40">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' height="40">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg' height="40">
   
