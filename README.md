@@ -47,9 +47,9 @@ I am a Software Engineering student with over two years of experience in full-st
 <div align="center">
   
 <img src="https://www.svgrepo.com/show/373554/django.svg" height="40"/>
-<img src='https://www.svgrepo.com/show/378440/nextjs-fill.svg' height="40">
+<img src='https://github.com/frankjlin16/frankjlin16/blob/main/nextjs-svgrepo-com.svg' height="40">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' height="40">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg' height="40">
+<img src='https://www.svgrepo.com/show/303251/mysql-logo.svg' height="40">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frankjlin16&bg_color=30,3EADCF,ABE9CD)](https://git.io/streak-stats)
 
