@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+![header](https://capsule-render.vercel.app/api?fontColor=FFB703&type=rect&color=023047&height=300&section=header&text=Hi,%20I'm%20Frankie!%20🤗&fontSize=50&animation=fadeIn)
 
 <!--
 **frankjlin16/frankjlin16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
