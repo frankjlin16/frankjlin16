@@ -5,7 +5,7 @@
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=frankjlin16&color=FFB703)
+![](https://komarev.com/ghpvc/?username=frankjlin16&color=FFB703) [![LinkedIn](https://img.shields.io/badge/Follow_LinkedIn--white?logo=linkedin&style=social)](https://www.linkedin.com/in/frankjlin/)
 
 ## About
 
