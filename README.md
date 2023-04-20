@@ -45,15 +45,11 @@ I am a Software Engineering student with over two years of experience in full-st
 ## Libraries and Tools
 
 <div align="center">
-  
-  <div bg-color="yellow">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg' height="40">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' height="40">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg' height="40">
-
-  </div>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frankjlin16&bg_color=30,3EADCF,ABE9CD)](https://git.io/streak-stats)
 
