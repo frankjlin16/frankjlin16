@@ -19,7 +19,7 @@ I am a Software Engineering student with over two years of experience in full-st
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=frankjlin16&bg_color=80,023047,219EBC&title_color=FB8500&text_color=FFB703&ring_color=FFB703)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=frankjlin16&bg_color=80,023047,219EBC&title_color=FB8500&text_color=FFB703&ring_color=FFB703&count_private=true)
 
 </div>
   
