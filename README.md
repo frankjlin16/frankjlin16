@@ -50,6 +50,11 @@ I am a Software Engineering student with over two years of experience in full-st
 <img src='https://github.com/frankjlin16/frankjlin16/blob/main/nextjs-svgrepo-com.svg' height="40">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' height="40">
 <img src='https://www.svgrepo.com/show/303251/mysql-logo.svg' height="40">
+<img src='https://www.svgrepo.com/show/452192/docker.svg' height="40">
+<img src='https://www.svgrepo.com/show/373458/aws.svg' height="40">
+<img src='https://github.com/frankjlin16/frankjlin16/blob/main/vercel-svgrepo-com.svg' height="40">
+<img src='https://www.svgrepo.com/show/448274/azure.svg' height="40">
+<img src='https://www.svgrepo.com/show/353564/cloudflare.svg' height="40">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frankjlin16&bg_color=30,3EADCF,ABE9CD)](https://git.io/streak-stats)
 
