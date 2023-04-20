@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?fontColor=FFB703&type=rect&color=023047&height=200&section=header&text=Hi,%20I'm%20Frankie!%20🤗&fontSize=50&animation=fadeIn)
+[![header](https://capsule-render.vercel.app/api?fontColor=FFB703&type=rect&color=023047&height=200&section=header&text=Hi,%20I'm%20Frankie!%20🤗&fontSize=50&animation=fadeIn)](https://github.com/frankjlin16?tab=repositories)
 
 </div>
 
