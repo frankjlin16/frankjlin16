@@ -13,7 +13,7 @@ I am a Software Engineering student with over two years of experience in full-st
 
 - 🔭 I am currently working on a [components library](https://github.com/ASU-CodeDevils/CD-Library) as a part of CodeDevils.
 - 🌱 I am currently learning Next.js as well as Framer Motion.
-- 📚 I am working towards a degree in Software Engineering degree at Arizona State University.
+- 📚 I am working towards a degree in Software Engineering at Arizona State University.
 - 💻 I am a webmaster for the student organization CodeDevils at ASU.
 - 🎸 I love playing the guitar during my free time.
 
