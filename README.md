@@ -13,12 +13,37 @@ I am a Software Engineering student with over two years of experience in full-st
 - 🌱 I am currently learning Next.js as well as Framer Motion.
 - 📚 I am working towards a degree in Software Engineering degree at Arizona State University.
 - 💻 I am a webmaster for the student organization CodeDevils at ASU.
+- 🎸 I love playing the guitar during my free time.
 
 <div align="center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=frankjlin16&bg_color=80,023047,219EBC&title_color=fff&text_color=fff)
 
+## Languages :
+
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'  height="40"> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg' height="40">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg' height="40">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' height="40">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg' height="40">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg' height="40">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankjlin16&layout=compact&title_color=fff&text_color=FFFFFF&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
+## Libraries and Tools :
+
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg' height="40">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' height="40">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg' height="40">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frankjlin16&bg_color=30,3EADCF,ABE9CD)](https://git.io/streak-stats)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:023047,100:219EBC&height=200&section=footer&fontSize=80)
+
 </div>
+
+<!-- Got the cool color idea from: https://www.eggradients.com/category/blue-gradient -->
 
 <!--
 **frankjlin16/frankjlin16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
