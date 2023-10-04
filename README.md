@@ -9,7 +9,15 @@
 
 ## About
 
-I am a Software Engineering student with over 3 years of experience in full-stack web development, I bring a strong understanding of Django and React and a passion for building intuitive and scalable web applications. I am a quick and ambitious learner, constantly seeking to expand my knowledge and skill set. With creative problem-solving skills, I can effectively troubleshoot issues and develop innovative solutions to improve the software development process. I have experience working collaboratively in teams, ensuring high-quality products are delivered on time.
+As a passionate and experienced full-stack developer with close to 4 years of proven expertise in
+Django and React, I thrive on building intuitive and scalable web applications. My insatiable
+appetite for learning drives me to explore new tech stacks for each project, continuously
+expanding my knowledge and skill set. At Beijing Majestic, I successfully redesigned their
+website, ensuring consistent software maintenance beyond the initial development cycle, thanks
+to my resourcefulness and unwavering problem-solving skills. Additionally, as a webmaster at
+CodeDevils, I led a team of developers, fostering a collaborative environment and overseeing
+rapid project developments. I am eager to contribute to a dynamic team and drive the company's
+success forward through innovation and dedication.
 
 - 🔭 I am currently working on a [components library](https://github.com/ASU-CodeDevils/CD-Library) as a part of CodeDevils.
 - 🌱 I am currently learning Next.js as well as Framer Motion.
