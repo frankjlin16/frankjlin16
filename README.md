@@ -1,6 +1,6 @@
 <div align="center">
   
-[![header](https://capsule-render.vercel.app/api?fontColor=FFB703&type=rect&color=023047&height=200&section=header&text=Hi,%20I'm%20Frankie!%20🤗&fontSize=50&animation=fadeIn)](https://github.com/frankjlin16?tab=repositories)
+[![header](https://capsule-render.vercel.app/api?type=venom&height=180&color=0:8fbcbb,100:a3be8c&text=Hi,&section=header&reversal=false&textBg=false&fontSize=36&desc=Welcome%20to%20my%20GitHub%20corner!&animation=twinkling&fontColor=ebcb8b&fontAlignY=40&fontAlign=50&descAlign=50&descSize=24)](https://github.com/frankjlin16?tab=repositories)
 
 </div>
 
@@ -51,7 +51,7 @@ As an enthusiastic and experienced full-stack developer, I have over 6 years of 
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=frankjlin16&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&background=45%2C023047%2C219EBC&ring=FFB703&fire=FB8500&currStreakLabel=FB8500&currStreakNum=FFB703&sideLabels=FB8500&sideNums=FFB703&dates=FFB703)](https://git.io/streak-stats)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:023047,100:219EBC&height=200&section=footer&fontSize=80)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:8fbcbb,100:a3be8c&section=footer&reversal=false&textBg=false&fontSize=36&animation=twinkling&fontColor=ebcb8b&fontAlignY=40&fontAlign=34&descAlign=50&descSize=24&descAlignY=54)
 
 </div>
 
